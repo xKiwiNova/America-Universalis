@@ -1,0 +1,33 @@
+#,id,r,g,b,name,terrain,culture,religion,tax,prod,man,tradegood
+
+# St Johns
+927,201,255,207,Saturiwa,marsh,timucuan,mississippian,2,1,2,sea_turtle
+4625,92,201,103,Mayaca,marsh,south_floridian,mississippian,1,1,2,fish
+4942,158,255,169,Utina,marsh,timucuan,mississippian,2,2,2,maize
+4944,115,198,77,Acuera,marsh,timucuan,mississippian,2,1,1,pearls
+# South Florida
+2535,68,41,155,Calusa,savanna,south_floridian,mississippian,2,1,2,seafood
+2536,16,19,95,Miaimi,marsh,south_floridian,mississippian,1,1,2,fish
+4954,31,39,186,Tekesta,marsh,south_floridian,mississippian,1,1,2,sea_turtle
+4955,64,88,183,Muspa,marsh,south_floridian,mississippian,1,2,1,sea_turtle
+4943,64,88,183,Guaragumbe,marsh,south_floridian,mississippian,2,2,1,fish
+# Suwannee River
+4945,255,168,200,Aguacalyeken,woodland,timucuan,mississippian,3,2,2,tobacco
+4626,244,149,198,Potano,marsh,timucuan,mississippian,2,2,3,maize
+4946,232,113,127,Ayacuto,woodland,timucuan,mississippian,3,2,3,maize
+4959,232,74,132,Ocale,marsh,timucuan,mississippian,1,1,2,pearls
+2534,242,19,97,Yustaga,savanna,timucuan,mississippian,2,1,2,maize
+# Tampa Bay
+4947,243,255,178,Tocobaga,marsh,south_floridian,mississippian,2,2,1,fish
+4949,175,163,86,Ucita,marsh,south_floridian,mississippian,1,1,2,fish
+4950,175,136,73,Urriparacosi,marsh,south_floridian,mississippian,2,1,2,maize
+#,4948,244,231,145,Mocoso,marsh,south_floridian,mississippian,1,1,2,fish
+# East Florida Coast
+4951,38,112,173,Jororo,marsh,south_floridian,mississippian,1,1,2,tobacco
+4952,110,210,221,Guacata,savanna,south_floridian,mississippian,1,1,2,seafood
+4953,57,186,221,Jobe,savanna,south_floridian,mississippian,2,1,2,seafood
+2665,137,221,221,Jece,marsh,south_floridian,mississippian,1,1,1,seafood
+
+4956,193,0,242,Ivitachuco,marsh,timucuan,mississippian,3,2,3,pearls
+
+

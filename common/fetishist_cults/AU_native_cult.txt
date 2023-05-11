@@ -1,0 +1,111 @@
+birdman_cult = {
+	land_morale = 0.10
+
+	allow = {
+		OR = {
+			religion = mississippian
+		}
+		OR = {
+			NOT = { has_country_flag = uses_primary_cult }
+			AND = {
+				has_country_flag = uses_primary_cult
+				has_primary_cult = {
+					cult = birdman_cult
+				}
+			}
+		}
+	}
+	sprite = 16
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			personality = ai_militarist
+			factor = 2
+		}
+	}
+}
+
+redhorn_cult = {
+	war_exhaustion = -0.005
+
+	allow = {
+		OR = {
+			religion = mississippian
+		}
+		OR = {
+			NOT = { has_country_flag = uses_primary_cult }
+			AND = {
+				has_country_flag = uses_primary_cult
+				has_primary_cult = {
+					cult = redhorn_cult
+				}
+			}
+		}
+	}
+	sprite = 17
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			personality = ai_militarist
+			factor = 2
+		}
+	}
+}
+
+serpent_cult = {
+	global_unrest = -2
+
+	allow = {
+		OR = {
+			religion = mississippian
+		}
+		OR = {
+			NOT = { has_country_flag = uses_primary_cult }
+			AND = {
+				has_country_flag = uses_primary_cult
+				has_primary_cult = {
+					cult = serpent_cult
+				}
+			}
+		}
+	}
+	sprite = 17
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			personality = ai_militarist
+			factor = 2
+		}
+	}
+}
+
+sun_cult = {
+	global_unrest = -2
+
+	allow = {
+		OR = {
+			religion = mississippian
+		}
+		OR = {
+			NOT = { has_country_flag = uses_primary_cult }
+			AND = {
+				has_country_flag = uses_primary_cult
+				has_primary_cult = {
+					cult = serpent_cult
+				}
+			}
+		}
+	}
+	sprite = 17
+
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			personality = ai_militarist
+			factor = 2
+		}
+	}
+}
