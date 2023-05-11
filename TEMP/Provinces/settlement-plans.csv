@@ -1,33 +1,24 @@
-#,id,r,g,b,name,terrain,culture,religion,tax,prod,man,tradegood
-
-# St Johns
-927,201,255,207,Saturiwa,marsh,timucuan,mississippian,2,1,2,sea_turtle
-4625,92,201,103,Mayaca,marsh,south_floridian,mississippian,1,1,2,fish
-4942,158,255,169,Utina,marsh,timucuan,mississippian,2,2,2,maize
-4944,115,198,77,Acuera,marsh,timucuan,mississippian,2,1,1,pearls
-# South Florida
-2535,68,41,155,Calusa,savanna,south_floridian,mississippian,2,1,2,seafood
-2536,16,19,95,Miaimi,marsh,south_floridian,mississippian,1,1,2,fish
-4954,31,39,186,Tekesta,marsh,south_floridian,mississippian,1,1,2,sea_turtle
-4955,64,88,183,Muspa,marsh,south_floridian,mississippian,1,2,1,sea_turtle
-4943,64,88,183,Guaragumbe,marsh,south_floridian,mississippian,2,2,1,fish
-# Suwannee River
-4945,255,168,200,Aguacalyeken,woodland,timucuan,mississippian,3,2,2,tobacco
-4626,244,149,198,Potano,marsh,timucuan,mississippian,2,2,3,maize
-4946,232,113,127,Ayacuto,woodland,timucuan,mississippian,3,2,3,maize
-4959,232,74,132,Ocale,marsh,timucuan,mississippian,1,1,2,pearls
-2534,242,19,97,Yustaga,savanna,timucuan,mississippian,2,1,2,maize
-# Tampa Bay
-4947,243,255,178,Tocobaga,marsh,south_floridian,mississippian,2,2,1,fish
-4949,175,163,86,Ucita,marsh,south_floridian,mississippian,1,1,2,fish
-4950,175,136,73,Urriparacosi,marsh,south_floridian,mississippian,2,1,2,maize
-#,4948,244,231,145,Mocoso,marsh,south_floridian,mississippian,1,1,2,fish
-# East Florida Coast
-4951,38,112,173,Jororo,marsh,south_floridian,mississippian,1,1,2,tobacco
-4952,110,210,221,Guacata,savanna,south_floridian,mississippian,1,1,2,seafood
-4953,57,186,221,Jobe,savanna,south_floridian,mississippian,2,1,2,seafood
-2665,137,221,221,Jece,marsh,south_floridian,mississippian,1,1,1,seafood
-
-4956,193,0,242,Ivitachuco,marsh,timucuan,mississippian,3,2,3,pearls
-
-
+ID,Name,r;g;b,Tax;Prod;Man,Culture,Religion,Trade Good,Owner,Terrain,Area,Region
+927,Saturiwa,201;255;207,2;2;2,Timucua,Mississippian,Sea Turtle,Saturiwa,,Northeast Florida,Southeast
+4942,Utina,58;255;169,2;2;2,Timucua,Mississippian,Seafood,Utina,,Northeast Florida,Southeast
+4943,Acuera,115;198;77,2;1;2,Timucua,Mississippian,Fish,Acuera,,Northeast Florida,Southeast
+4625,Mayaca,92;201;103,1;1;2,Floridian,Mississippian,Fish,Mayaca,,Northeast Florida,Southeast
+4626,Potano,244;149;198,3;2;3,Timucua,Mississippian,Maize,Potano,,Suwannee Valley,Southeast
+2534,Yustaga,242;19;97,2;1;2,Timucua,Mississippian,Maize,Yustaga,,Suwannee Valley,Southeast
+4943,Ayacuto,232;113;127,3;2;2,Timucua,Mississippian,Maize,Ayacuto,,Suwannee Valley,Southeast
+4944,Ivitanayo,255;168;200,2;1;2,Timucua,Mississippian,Tobacco,Ayacuto,,Suwannee Valley,Southeast
+4945,Ocale,232;74;132,1;1;2,Timucua,Mississippian,Pearls,Ocale,,Suwanee Valley,Southeast
+2536,Mayaimi,16;19;95,1;1;2,Floridian,Mississippian,Fish,Mayaimi,,South Florida,Southeast
+2535,Calusa,68;41;155,2;1;2,Floridian,Mississippian,Fish,Calusa,,South Florida,Southeast
+4946,Tekesta,31;39;186,1;1;1,Floridian,Mississippian,Seafood,Tekesta,,South Florida,Southeast
+4947,Jobe,57;186;221,1;1;2,Floridian,Mississippian,Seafood,Jaega,,South Florida,Southeast
+4948,Muspa,64;88;183,1;1;2,Floridian,Mississippian,Pearls,Calusa,,South Florida,Southeast
+4949,Tocobaga,243;255;178,2;1;2,Floridian,Mississippian,Pearls,Tocobaga,,Central Florida,Southeast
+4950,Ucita,175;163;86,1;1;2,Floridian,Mississippian,Fish,Ucita,,Central Florida,Southeast
+4951,Urriparacosi,175;136;73,2;1;2,Timucua,Mississippian,Maize,Urriparacosi,,Central Florida,Southeast
+2665,Jece,137;221;221,2;1;2,Floridian,Mississippian,Sea Turtles,Ais,,Central Florida,Southeast
+4952,Jororo,38;112;173,1;1;2,Floridian,Mississippian,Fish,Jororo,,Central Florida,Southeast
+4953,Ivitachuco,193;0;242,2;2;2,Floridian,Mississippian,Maize,Apalachi,,West Florida,Southeast
+4954,Anhaica,,2;2;2,Floridian,Mississippian,Seafood,Apalachi,,West Florida,Southeast
+4955,Chacato,,2;1;2,Floridian,Mississippian,Fur,Chacato,,West Florida,Southeast
+4956,Pansacola,,2;1;2,Floridian,Mississippian,Maize,Pansacola,,West Florida,Southeast
